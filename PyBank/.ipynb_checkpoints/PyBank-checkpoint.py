@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[1]:
+
+
+#NEED:
+
+
+
 # In[193]:
 
 
@@ -83,4 +90,40 @@ print(output)
 file_output = os.path.join(".","analysis","budget_analysis.txt")
 with open(file_output, "w") as txt_file:
     txt_file.write(output)
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 
